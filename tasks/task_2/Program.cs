@@ -6,7 +6,7 @@ string NumberNew = Convert.ToString(Number);
 
 if (NumberNew.Length > 2)
 {
-  Console.WriteLine("третья цифра" + NumberNew[2]);
+  Console.WriteLine(NumberNew[2]);
 }
 
 else 
